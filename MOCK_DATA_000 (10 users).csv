@@ -1,0 +1,10 @@
+given_name,sur_name,initials,Username,OU,Company,title,Department,Description,streetaddress,postal,city,state,password,EmployeeID,Office
+Harry,Potter,F,hpotter,"CN=Users,DC=domain,DC=com",Company X,In-School Settlement Worker,Information Technology Services,App - Contractor No HomeFolder,7430 - 5 Street S.W.,T2V 1B1,Calgary,Alberta,CLbB#x#o2B+z,C04730,Finance
+Albus,Dumbledore,J,adumbledore,"CN=Users,DC=domain,DC=com",Company X,Security Technical Specialist,Information Technology Services,"Infrastr, Develmnt & Support",2103 - 20 Street N.W.,T2R 0L4,Edmonton,Alberta,y+3R*B8MN@*3,30085,"Infrastr, Develmnt & Support"
+Severus,Snape,U,Ssnape,"CN=Users,DC=domain,DC=com",Company X,Learning Leader,Finance,Branton,427 - 78 Avenue N.E.,T2M 3W1,Washington,Alberta,GWR+NnxligHw,33134,Business
+Decimus,Maximus,D,Dmaximus,"CN=Users,DC=domain,DC=com",Company X,Teacher,Sales,Teacher,5612 Templehill Road N.E.,90210,Alabama,Alberta,y8yX1*5oSuC-,201628,Engineering
+Peter,Parker,CD,Pparker,"CN=Users,DC=domain,DC=com",Company X,Teacher,Management,Alex Munro,1221 8th Street SW,T2K 0R9,New york,Alberta,3FnwQqNXRa*&,208724,Marketing
+Peter,Quill,EE,Pquill,"CN=Users,DC=domain,DC=com",Company X,Teacher,Finance,Westgate,8777 Nose Hill Drive N.W.,T3C 2T3,Las Vegas,Alberta,iEBjyJxALSG-,201844,Army
+Tony,Stark,RR,Tstark,"CN=Users,DC=domain,DC=com",Company X,Language Interpreter,Sales,Language Interpreter  Lunch Supervisor,5111 - 21 Street S.W.,89332,Winnipeg,Alberta,m@5AEw7e9onW,209361,"Infrastr, Develmnt & Support"
+Steve,Rogers,SB,Srogers,"CN=Users,DC=domain,DC=com",Company X,"Ed Assistant, Special Ed",Management,Guy Weadick,5612 Templehill Road N.E.,T1Y 4B9,Toronto,Alberta,X&z&3aJ#wiE3,208060,Navy
+Mike,Modano,GG,Mmodano,"CN=Users,DC=domain,DC=com",Company X,"Ed Assistant, Special Ed",Sales,"Ed Assistant, Special Ed",5111 - 21 Street S.W.,90101,Vale,Alberta,iHM!Z=?@asH3,212463,Marines
